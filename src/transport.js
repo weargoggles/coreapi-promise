@@ -1,3 +1,4 @@
+/* @flow */
 import * as Url from "url";
 import * as http from "http";
 import { selectCodec } from "./codecs";

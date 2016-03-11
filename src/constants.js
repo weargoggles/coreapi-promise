@@ -1,4 +1,4 @@
-export var TRANSITIONS = {
+export const TRANSITIONS = {
     FOLLOW: 'follow',
     ACTION: 'action',
     CREATE: 'create',
