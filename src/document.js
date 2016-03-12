@@ -1,3 +1,4 @@
+/* @flow */
 import Immutable from "immutable";
 import { transition } from "./transport";
 
